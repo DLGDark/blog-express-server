@@ -1,2 +1,2 @@
 # blog-express-server
-express构建blog项目
+express重构blog-simple-server项目
